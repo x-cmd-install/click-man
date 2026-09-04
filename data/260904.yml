@@ -7,7 +7,7 @@ about:
   head: a8adaa2
   archived: false
   latestVersion: v0.4.2
-  collectedAt: 2026-09-04T19:27:47Z
+  collectedAt: 2026-09-04T21:04:35Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-02-28
@@ -80,6 +80,44 @@ total:
   openIssue: 13
   commit: 117
 ---
+path: /home/runner/.x-repo/github.com/click-contrib/click-man
+collectedAt: 2026-09-04T21:04:36Z
+loc:
+  Python:
+    code: 642
+    comments: 27
+    blanks: 112
+    files: 11
+  Toml:
+    code: 42
+    comments: 2
+    blanks: 7
+    files: 1
+  Ini:
+    code: 19
+    comments: 4
+    blanks: 3
+    files: 1
+  Autoconf:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 104
+    blanks: 56
+    files: 2
+  Text:
+    code: 0
+    comments: 4
+    blanks: 0
+    files: 2
+total:
+  code: 716
+  comments: 141
+  blanks: 178
+  files: 18
 ---
 date: "2026-08-24"
 repo:
