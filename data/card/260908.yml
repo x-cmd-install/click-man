@@ -5,7 +5,7 @@ about:
   head: a8adaa2
   archived: false
   latestVersion: "v0.4.2"
-  collectedAt: 2026-09-08T03:13:34Z
+  collectedAt: 2026-09-08T06:01:42Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-02-28
@@ -79,7 +79,7 @@ total:
   commit: 117
 ---
 path: /home/runner/.x-repo/github.com/click-contrib/click-man
-collectedAt: 2026-09-08T03:13:35Z
+collectedAt: 2026-09-08T06:01:47Z
 loc:
   Python:
     code: 642
