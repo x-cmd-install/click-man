@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.2"
   latestRelease: "v0.4.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:12:02Z
+  collectedAt: 2026-09-10T22:45:07Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-02-28
@@ -83,7 +83,7 @@ total:
   commit: 117
 ---
 path: /home/runner/.x-repo/github.com/click-contrib/click-man
-collectedAt: 2026-09-10T21:12:04Z
+collectedAt: 2026-09-10T22:45:07Z
 loc:
   Python:
     code: 642
