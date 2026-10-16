@@ -14,15 +14,15 @@ x install click-man
 
 ## Code insight
 
-Total: **708** lines of code across **16** files in the top 5 languages.
+Total: **762** lines of code across **16** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 642 | 27 | 112 | 11 |
-| Toml | 42 | 2 | 7 | 1 |
-| Ini | 19 | 4 | 3 | 1 |
+| Python | 691 | 28 | 122 | 11 |
+| Toml | 48 | 0 | 8 | 1 |
+| Ini | 18 | 4 | 3 | 1 |
 | Autoconf | 5 | 0 | 0 | 1 |
-| Markdown | 0 | 104 | 56 | 2 |
+| Markdown | 0 | 104 | 55 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.2` (2021-10-14)
-- **Last commit**: 2026-02-28
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
-- **Stars**: 211 · **Forks**: 55 · **Open issues**: 32 · **Contributors**: 19
+- **Stars**: 211 · **Forks**: 55 · **Open issues**: 32 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 19 · **Open issues**: 13 · **Commits**: 117
+- **Releases**: 5 · **Merged PRs**: 33 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 13 · **Commits**: 125
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-18 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 360d | 2025-10-20 | 0 | 1 | 1 | 0 | 2 | 1 |
-| last720d | 2024-10-25 | 0 | 4 | 1 | 1 | 3 | 21 |
+| 30d | 2026-09-16 | 0 | 2 | 0 | 0 | 0 | 7 |
+| last60d | 2026-08-17 | 0 | 2 | 0 | 0 | 1 | 7 |
+| 90d | 2026-07-18 | 0 | 2 | 0 | 0 | 1 | 7 |
+| last180d | 2026-04-19 | 0 | 3 | 0 | 0 | 2 | 8 |
+| 360d | 2025-10-21 | 0 | 4 | 0 | 0 | 2 | 9 |
+| last720d | 2024-10-26 | 0 | 7 | 0 | 1 | 3 | 29 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for click-man lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:56:24Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:48:46Z._
