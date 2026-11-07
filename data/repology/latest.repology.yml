@@ -1,3 +1,17 @@
+- repo: raspbian_stable
+  subrepo: main
+  srcname: click-man
+  binnames:
+    - python3-click-man
+    - click-man
+  visiblename: click-man
+  version: 0.4.2
+  origversion: 0.4.2-0.1
+  status: outdated
+  maintainers:
+    - ryan@ryanpavlik.com
+  categories:
+    - misc
 - repo: raspbian_testing
   subrepo: main
   srcname: click-man
@@ -21,48 +35,6 @@
   visiblename: click-man
   version: 0.4.2
   origversion: 0.4.2-0.1
-  status: outdated
-  maintainers:
-    - ryan@ryanpavlik.com
-  categories:
-    - devel
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: click-man
-  binnames:
-    - python3-click-man
-    - click-man
-  visiblename: click-man
-  version: 0.4.1
-  origversion: 0.4.1-2
-  status: outdated
-  maintainers:
-    - ryan@ryanpavlik.com
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: click-man
-  binnames:
-    - python3-click-man
-    - click-man
-  visiblename: click-man
-  version: 0.4.2
-  origversion: 0.4.2-0.1
-  status: outdated
-  maintainers:
-    - ryan@ryanpavlik.com
-  categories:
-    - misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: click-man
-  binnames:
-    - click-man
-    - python3-click-man
-  visiblename: click-man
-  version: 0.4.1
-  origversion: 0.4.1-2
   status: outdated
   maintainers:
     - ryan@ryanpavlik.com
@@ -236,6 +208,34 @@
     - ryan@ryanpavlik.com
   categories:
     - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: click-man
+  binnames:
+    - click-man
+    - python3-click-man
+  visiblename: click-man
+  version: 0.4.1
+  origversion: 0.4.1-2
+  status: outdated
+  maintainers:
+    - ryan@ryanpavlik.com
+  categories:
+    - devel
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: click-man
+  binnames:
+    - python3-click-man
+    - click-man
+  visiblename: click-man
+  version: 0.4.1
+  origversion: 0.4.1-2
+  status: outdated
+  maintainers:
+    - ryan@ryanpavlik.com
+  categories:
+    - misc
 - repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: click-man
@@ -318,5 +318,19 @@
   status: outdated
   maintainers:
     - ryan@ryanpavlik.com
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: click-man
+  binnames:
+    - python3-click-man
+    - click-man
+  visiblename: click-man
+  version: 0.5.2
+  origversion: 0.5.2-0.2
+  status: unique
+  maintainers:
+    - rylie@ryliepavlik.com
   categories:
     - universe/misc
